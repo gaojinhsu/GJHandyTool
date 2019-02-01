@@ -1,0 +1,29 @@
+# HandyTool
+
+[![CI Status](https://img.shields.io/travis/xugaojin/HandyTool.svg?style=flat)](https://travis-ci.org/xugaojin/HandyTool)
+[![Version](https://img.shields.io/cocoapods/v/HandyTool.svg?style=flat)](https://cocoapods.org/pods/HandyTool)
+[![License](https://img.shields.io/cocoapods/l/HandyTool.svg?style=flat)](https://cocoapods.org/pods/HandyTool)
+[![Platform](https://img.shields.io/cocoapods/p/HandyTool.svg?style=flat)](https://cocoapods.org/pods/HandyTool)
+
+## Example
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+## Requirements
+
+## Installation
+
+HandyTool is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'HandyTool'
+```
+
+## Author
+
+xugaojin, xugaojin@babytree-inc.com
+
+## License
+
+HandyTool is available under the MIT license. See the LICENSE file for more info.

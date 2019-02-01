@@ -1,0 +1,23 @@
+PODS:
+  - HandyTool (0.1.0)
+  - Kiwi (3.0.0)
+
+DEPENDENCIES:
+  - HandyTool (from `../`)
+  - Kiwi
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Kiwi
+
+EXTERNAL SOURCES:
+  HandyTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HandyTool: 58bb8c37349fa59c4af2b393ade00580c5287f3b
+  Kiwi: fbeafef0f00e4d8f7dcb3420a4930afe70af77f7
+
+PODFILE CHECKSUM: e027323df1b95494749fd81e3f01e29a37f066d7
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,6 @@
+framework module HandyTool {
+  umbrella header "HandyTool-umbrella.h"
+
+  export *
+  module * { export * }
+}
