@@ -22,7 +22,7 @@ pod 'HandyTool'
 
 ## Author
 
-xugaojin, xugaojin@babytree-inc.com
+GaojinHsu
 
 ## License
 
