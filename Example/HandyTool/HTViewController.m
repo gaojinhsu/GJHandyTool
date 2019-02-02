@@ -7,7 +7,6 @@
 //
 
 #import "HTViewController.h"
-#import <HandyTool/NSArray+SafeAccess.h>
 
 @interface HTViewController ()
 

@@ -20,6 +20,5 @@
   },
   "source_files": "HandyTool/Classes/**/*",
   "public_header_files": "HandyTool/Classes/**/*.h",
-  "frameworks": "UIKit",
-  "compiler_flags": "-ObjC"
+  "frameworks": "UIKit"
 }

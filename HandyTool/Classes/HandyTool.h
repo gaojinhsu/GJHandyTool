@@ -1,14 +1,13 @@
-#ifdef __OBJC__
-#import <UIKit/UIKit.h>
-#else
-#ifndef FOUNDATION_EXPORT
-#if defined(__cplusplus)
-#define FOUNDATION_EXPORT extern "C"
-#else
-#define FOUNDATION_EXPORT extern
-#endif
-#endif
-#endif
+//
+//  HandyTool.h
+//  HandyTool
+//
+//  Created by Gaojin Hsu on 2019/2/2.
+//
+
+#ifndef HandyTool_h
+#define HandyTool_h
+
 
 #import "NSArray+SafeAccess.h"
 #import "NSMutableArray+SafeAccess.h"
@@ -23,3 +22,4 @@
 FOUNDATION_EXPORT double HandyToolVersionNumber;
 FOUNDATION_EXPORT const unsigned char HandyToolVersionString[];
 
+#endif /* HandyTool_h */

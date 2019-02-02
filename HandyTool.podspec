@@ -40,5 +40,5 @@ Pod::Spec.new do |s|
   s.frameworks = 'UIKit'
   # s.dependency 'AFNetworking', '~> 2.3'
   
-  s.compiler_flags = '-ObjC'
+#  s.compiler_flags = '-ObjC'
 end
