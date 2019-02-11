@@ -19,6 +19,7 @@
 #import "UIImage+Resize.h"
 #import "UIScreen+HandySize.h"
 #import "UIView+HandyLayout.h"
+#import "UIViewController+Utilities.h"
 
 FOUNDATION_EXPORT double HandyToolVersionNumber;
 FOUNDATION_EXPORT const unsigned char HandyToolVersionString[];

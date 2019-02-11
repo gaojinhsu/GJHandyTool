@@ -1,6 +1,6 @@
 {
   "name": "HandyTool",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Most often used tool methods on iOS Development.",
   "description": "Most often used tool methods on iOS Development.",
   "homepage": "https://github.com/gaojinhsu/HandyTool",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/gaojinhsu/HandyTool.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"
